@@ -1,5 +1,5 @@
 # picovoice-java-swing-demo-maven
-Picovoice application using Maven
+Picovoice java swing demo application using Maven
 
 ## Source
 https://github.com/Picovoice/picovoice/tree/master/demo/java-swing
